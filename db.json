@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "price": {
+      "originalPrice": 109.95,
+      "discountLevels": [
+        {
+          "level": 1,
+          "discountedPrice": 100.98
+        },
+        {
+          "level": 2,
+          "discountedPrice": 95.95
+        },
+        {
+          "level": 3,
+          "discountedPrice": 85.88
+        },
+        {
+          "level": 4,
+          "discountedPrice": 70.50
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "title": "Mens Casual Premium Slim Fit T-Shirts",
+    "price": {
+      "originalPrice": 22.3,
+      "discountLevels": [
+        {
+          "level": 1,
+          "discountedPrice": 20.22
+        },
+        {
+          "level": 2,
+          "discountedPrice": 18.18
+        },
+        {
+          "level": 3,
+          "discountedPrice": 15.88
+        },
+        {
+          "level": 4,
+          "discountedPrice": 10.50
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "price": {
+      "originalPrice": 695,
+      "discountLevels": [
+        {
+          "level": 1,
+          "discountedPrice": 680.89
+        },
+        {
+          "level": 2,
+          "discountedPrice": 618.18
+        },
+        {
+          "level": 3,
+          "discountedPrice": 555.55
+        },
+        {
+          "level": 4,
+          "discountedPrice": 500.50
+        }
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+    "price": {
+      "originalPrice": 64,
+      "discountLevels": [
+        {
+          "level": 1,
+          "discountedPrice": 61.89
+        },
+        {
+          "level": 2,
+          "discountedPrice": 58.18
+        },
+        {
+          "level": 3,
+          "discountedPrice": 55.55
+        },
+        {
+          "level": 4,
+          "discountedPrice": 50.50
+        }
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+    "price": {
+      "originalPrice": 599,
+      "discountLevels": [
+        {
+          "level": 1,
+          "discountedPrice": 561.89
+        },
+        {
+          "level": 2,
+          "discountedPrice": 558.18
+        },
+        {
+          "level": 3,
+          "discountedPrice": 555.55
+        },
+        {
+          "level": 4,
+          "discountedPrice": 550.50
+        }
+      ]
+    }
+  },
+  {
+    "id": 17,
+    "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+    "price": {
+      "originalPrice": 39.99,
+      "discountLevels": [
+        {
+          "level": 1,
+          "discountedPrice": 31.31
+        },
+        {
+          "level": 2,
+          "discountedPrice": 28.18
+        },
+        {
+          "level": 3,
+          "discountedPrice": 25.55
+        },
+        {
+          "level": 4,
+          "discountedPrice": 20.70
+        }
+      ]
+    }
+  }
+]
